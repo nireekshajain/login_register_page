@@ -1,3 +1,4 @@
+import './NavBar.css'
 export default function NavBar() {
     return (<nav className ="nav">
         {/* <img src="login_register_page\src\images\AIMS-logo.svg" width="60px" height="40px" style="margin-left: 10px;" /> */}
