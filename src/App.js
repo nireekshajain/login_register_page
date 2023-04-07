@@ -1,5 +1,7 @@
 import React, { useState } from "react";
-import './App.css';
+// import './App.css';
+import './Register.css';
+import './Login.css';
 import {Login} from "./Login";
 import {Register} from "./Register";
 import NavBar from "./NavBar";
